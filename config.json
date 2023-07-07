@@ -1,0 +1,15 @@
+{
+	"customComponentItems": {
+		"HeaderMenu-5ef64ab5": {
+			"name": "HeaderMenu",
+			"imagePath": "drawer.png",
+			"description": "item1"
+		},
+        "Drawer": {
+            "name": "Drawer",
+			"imagePath": "drawer.png",
+			"description": "item1" 
+        }
+	},
+	"version": "0.0.2"
+}
