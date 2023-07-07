@@ -4,6 +4,11 @@
 			"name": "HeaderMenu",
 			"imagePath": "111.png",
 			"description": "item1"
+		},
+		"AppBar": {
+			"name": "AppBar",
+			"imagePath": "cover.jpeg",
+			"description": "item1"
 		}
 	},
 	"version": "0.0.2"

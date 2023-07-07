@@ -1,3 +1,7 @@
 import { HeaderMenu } from './HeaderMenu';
+import { StickyAppBar } from './AppBar';
 
-export default { HeaderMenu };
+export default { 
+    HeaderMenu,
+    StickyAppBar
+ };
