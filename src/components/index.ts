@@ -1,3 +1,3 @@
-import { CustomDrawer } from './Drawer';
+import { HeaderMenu } from './HeaderMenu';
 
-export default { CustomDrawer };
+export default { HeaderMenu };
